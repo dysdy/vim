@@ -1,3 +1,6 @@
+Please notice that this project was exported from 	
+https://code.google.com/p/vim/ . 
+-----------------------------------------------
 `README.md` for version 7.4 of Vim: Vi IMproved.
 
 
